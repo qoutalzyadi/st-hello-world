@@ -1,14 +1,4 @@
-#Import all relevant libraries
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-from scipy.stats import zscore
-import dtale
-import sweetviz as sv
 
-## This statement allows the visuals to render within your Jupyter Notebook.
-%matplotlib inline
 
 import streamlit as st
 st.subheader("Hi , I'm Qout")
